@@ -1,4 +1,4 @@
-# Desafio Serasa Consumidor: Vinícius A. Arce
+# Desafio Consumidor: Vinícius A. Arce
 
 <h2>Armazenamento</h2>
 <h3>Base A</h3>
